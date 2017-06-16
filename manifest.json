@@ -1,0 +1,18 @@
+{
+
+  "manifest_version": 2, 
+  "name": "Supercharge Your Magnet Downloads",
+  "version": "0.0.1",
+  "description": "Automatically adds more trackers to magnet links to boost your download speed.",
+  "author": "UnluckyLuke",
+  "content_scripts":
+    [
+      {
+    "js": ["content.js"],
+    
+    "matches":        ["<all_urls>"]
+
+      }
+  ]
+ 
+}
