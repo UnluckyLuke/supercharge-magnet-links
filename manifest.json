@@ -2,9 +2,10 @@
 
   "manifest_version": 2, 
   "name": "Supercharge Your Magnet Downloads",
-  "version": "0.0.1",
-  "description": "Automatically adds more trackers to magnet links to boost your download speed.",
+  "version": "0.0.2",
+  "description": "Automatically adds more trackers to magnet links to boost your download speed. If you feel like donating, Bitcoin: 1DCorXCNhYVajwYDaN449AGVZ1wvfSxED",
   "author": "UnluckyLuke",
+  "homepage_url": "https://github.com/UnluckyLuke/supercharge-magnet-links",
   "content_scripts":
     [
       {

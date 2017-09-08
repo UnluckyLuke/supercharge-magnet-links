@@ -1,0 +1,25 @@
+Installation:
+
+1: Extension download page: https://github.com/UnluckyLuke/supercharge-magnet-links
+Press "Clone or download" and then "Download ZIP".
+
+2: Unzip it somewhere.
+
+3: In Chrome, open the extensions tab and click on "Developer mode" in the right corner and the click on "Load unpacked extension..." and choose the folder you just unpacked. And now you're done.
+
+(I know some of the trackers doesn't work but some do and you'll hopefully find more seeders.)
+
+-------------------------------
+
+If you feel like donating for some weird reason: ;)
+
+Bitcoin:
+1DCorXCNhYVajwYDaN449AGVZ1wvfSxED
+
+
+
+Reddit/Contact:
+https://www.reddit.com/user/Unluckyluke2/
+
+Regards,
+UnluckyLuke
